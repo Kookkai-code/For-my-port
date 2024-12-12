@@ -1,0 +1,112 @@
+#back {
+    text-decoration: none;
+    font-family: "Montserrat";
+    color: #f6de7d;
+}
+
+body {
+    background: #192427;
+}
+
+#pj {
+    text-decoration: none;
+    font-family: "Montserrat";
+    color: #f6de7d;
+    font-weight: 600;
+    font-size: 6vh;
+    text-align: center;
+    text-shadow: 0 0 2vh #f6de7d;
+    margin-top: 13vh;
+}
+
+div>p {
+    text-decoration: none;
+    font-family: "Prompt", sans-serif;
+    color: #f6de7d;
+    margin-bottom: 3%;
+}
+
+.game {
+    color: #f6de7d;
+    font-weight: 500;
+    font-size: 4vh;
+    text-align: center;
+    text-shadow: 0 0 2vh #f6de7d;
+    padding-bottom: 5vh;
+}
+
+.game_des {
+    padding-top: 5vh;
+    padding-left: 60vh;
+}
+
+.game_pic {
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+    justify-content: center;
+}
+
+div>div>img {
+    width: 30%;
+    border-radius: 5%;
+}
+
+.enter_g {
+    text-decoration: none;
+    font-family: "Prompt";
+    text-align: center;
+    background-color: #192427;
+    color: #f6de7d;
+    font-weight: 500;
+    font-size: 3.5vh;
+    padding: 1%;
+    margin-top: 1%;
+    margin-left: 36%;
+    margin-right: 20%;
+    border-style: solid;
+    border-color: #f6de7d;
+    border-width: 10%;
+    border-radius: 20%;
+    margin-bottom: 10%;
+    width: 12%;
+}
+
+.enter_g:hover {
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+    background-color: #f6de7d;
+    color: #192427;
+}
+
+#back {
+    text-decoration: none;
+    font-family: "Prompt";
+    text-align: center;
+    background-color: #192427;
+    color: #f6de7d;
+    font-weight: 500;
+    font-size: 3.5vh;
+    padding: 1%;
+    margin-left: 20%;
+    margin-top: 1%;
+    border-style: solid;
+    border-color: #f6de7d;
+    border-width: 10%;
+    border-radius: 20%;
+    height: 20%;
+}
+
+.u {
+    display: flex;
+    flex-direction: row;
+}
+
+#back:hover {
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+    background-color: #f6de7d;
+    color: #192427;
+}

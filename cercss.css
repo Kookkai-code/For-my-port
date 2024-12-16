@@ -1,0 +1,119 @@
+body {
+    background-color: #192427;
+}
+
+* {
+    color: #f6de7d;
+    font-family: "Prompt";
+}
+
+#back_2 {
+    text-decoration: none;
+    font-family: "Prompt";
+    text-align: center;
+    background-color: #192427;
+    color: #f6de7d;
+    font-weight: 500;
+    font-size: 3.5vh;
+    padding: 1%;
+    margin-left: 20%;
+    margin-top: 20%;
+    border-style: solid;
+    border-color: #f6de7d;
+    border-width: 10%;
+    border-radius: 20%;
+    height: 20%;
+}
+
+#back_2:hover {
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+    background-color: #f6de7d;
+    color: #192427;
+}
+
+#unline_4 {
+    margin-top: 8vh;
+    margin-bottom: 7%;
+    width: 58vw;
+    height: 0.5vh;
+    background-color: #192427;
+    margin-left: 20vw;
+}
+
+.cer_tt {
+    text-decoration: none;
+    font-family: "Montserrat";
+    color: #f6de7d;
+    font-weight: 600;
+    font-size: 6vh;
+    text-align: center;
+    text-shadow: 0 0 2vh #f6de7d;
+    margin-top: 13vh;
+}
+
+#tt1 {
+    font-family: "Prompt";
+    color: #f6de7d;
+    font-weight: 500;
+    font-size: 4vh;
+    text-align: center;
+    text-shadow: 0 0 2vh #f6de7d;
+    padding-bottom: 5vh;
+}
+
+img {
+    width: 70vh;
+    border-style: solid;
+    border-width: 1vh;
+    border-radius: 5%;
+}
+
+#tt2 {
+    font-family: "Prompt";
+    color: #f6de7d;
+    font-weight: 500;
+    font-size: 4vh;
+    text-align: center;
+    text-shadow: 0 0 2vh #f6de7d;
+    padding-bottom: 5vh;
+}
+
+#unline_1 {
+    margin-top: 8vh;
+    width: 58vw;
+    height: 0.5vh;
+    background-color: #f6de7d;
+    margin-left: 20vw;
+}
+
+.cers_1 {
+    margin-left: 12%;
+    display: grid;
+    grid-template-columns: 40vw 40vw;
+}
+
+div>div>:nth-child(3),
+div>div:nth-child(4) {
+    margin-top: 10%;
+}
+
+div>div>div>p {
+    text-align: center;
+    margin-right: 17%;
+}
+
+div>div:nth-child(5) {
+    margin-top: 10%;
+    margin-left: 20vw;
+}
+
+div>div>div>div {
+    text-align: center;
+    width: 40vw;
+}
+
+.cer_type2 {
+    margin-bottom: 5%;
+}
